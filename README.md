@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @maishdan
+# 👋 Hi, I’m @Daniwest
 
 I'm a passionate and versatile tech enthusiast based in Nyeri, Kenya. I specialize in multiple fields including:
 
