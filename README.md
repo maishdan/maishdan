@@ -28,8 +28,8 @@ I'm a passionate and versatile tech enthusiast based in Nyeri, Kenya. I speciali
 ## 📫 How to reach me
 - 📧 Email: [maishdan4940@gmail.com](mailto:maishdan4940@gmail.com)
 - 📱 Phone/WhatsApp: +254 790 293 895 - +254 701 460 110
-- 🌍 Portfolio: 1. [Daniwest Technologies](https://sites.google.com/view/daniwesttechnologies/home)
--                2. [Daniwest Maina](https://daniwest-digital-cv.vercel.app/)
+- 🌍 Portfolio: 1. [Daniwest Technologies](https://sites.google.com/view/daniwesttechnologies/home) |
+-                [Daniwest Maina](https://daniwest-digital-cv.vercel.app/)
 - 💼 LinkedIn: [Daniel Maina Wangui](https://www.linkedin.com/in/daniel-maina-5b6817363)
 
 ## 😄 Pronouns
