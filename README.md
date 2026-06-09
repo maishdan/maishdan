@@ -68,14 +68,79 @@ Kisii University : Bachelor of Science
 
 ## TECHNOLOGY STACK
 
-### Languages
+### Programming Languages
 
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge\&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
-![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge\&logo=php)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge\&logo=c)
+![HTML5](https://img.shields.io/badge/HTML5-00FF88?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-00FF88?style=for-the-badge&logo=css3&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-00FF88?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-00FF88?style=for-the-badge&logo=typescript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-00FF88?style=for-the-badge&logo=php&logoColor=black)
+![Python](https://img.shields.io/badge/Python-00FF88?style=for-the-badge&logo=python&logoColor=black)
+![C](https://img.shields.io/badge/C-00FF88?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-00FF88?style=for-the-badge&logo=postgresql&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-00FF88?style=for-the-badge&logo=kotlin&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-00FF88?style=for-the-badge&logo=dart&logoColor=black)
+
+---
+
+### Frontend Development
+
+![React](https://img.shields.io/badge/React-00FF88?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-00FF88?style=for-the-badge&logo=redux&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-00FF88?style=for-the-badge&logo=tailwindcss&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-00FF88?style=for-the-badge&logo=bootstrap&logoColor=black)
+
+---
+
+### Backend Development
+
+![PHP](https://img.shields.io/badge/PHP-00FF88?style=for-the-badge&logo=php&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-00FF88?style=for-the-badge&logo=node.js&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-00FF88?style=for-the-badge&logo=fastapi&logoColor=black)
+
+---
+
+### Mobile App Development
+
+![Flutter](https://img.shields.io/badge/Flutter-00FF88?style=for-the-badge&logo=flutter&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-00FF88?style=for-the-badge&logo=dart&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-00FF88?style=for-the-badge&logo=kotlin&logoColor=black)
+![Android](https://img.shields.io/badge/Android-00FF88?style=for-the-badge&logo=android&logoColor=black)
+
+---
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-00FF88?style=for-the-badge&logo=mysql&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-00FF88?style=for-the-badge&logo=postgresql&logoColor=black)
+
+---
+
+### DevOps & Cloud
+
+![Linux](https://img.shields.io/badge/Linux-00FF88?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-00FF88?style=for-the-badge&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-00FF88?style=for-the-badge&logo=github&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-00FF88?style=for-the-badge&logo=githubactions&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-00FF88?style=for-the-badge&logo=vercel&logoColor=black)
+
+---
+
+### Cybersecurity
+
+![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-00FF88?style=for-the-badge)
+![Network Security](https://img.shields.io/badge/Network_Security-00FF88?style=for-the-badge)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-00FF88?style=for-the-badge)
+![Digital Forensics](https://img.shields.io/badge/Digital_Forensics-00FF88?style=for-the-badge)
+
+---
+
+### Design Tools
+
+![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-00FF88?style=for-the-badge&logo=adobephotoshop&logoColor=black)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-00FF88?style=for-the-badge&logo=adobeillustrator&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00FF88?style=for-the-badge&logo=canva&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-00FF88?style=for-the-badge&logo=figma&logoColor=black)
 
 ### Cybersecurity
 
