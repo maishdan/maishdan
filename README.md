@@ -1,3 +1,153 @@
+<div align="center">
+
+# DANIEL MAINA WANGUI
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=1200&lines=Information+Technology+Student;Software+Engineer;Cybersecurity+Enthusiast;DevOps+Engineer;Web+Developer;Founder+of+Daniwest+Tech+Ltd" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=PROFILE+VIEWS&color=00ff88&style=for-the-badge" />
+
+<br><br>
+
+[![Portfolio](https://img.shields.io/badge/Daniwest_Tech_Ltd-Visit_Website-00ff88?style=for-the-badge\&logo=google-chrome\&logoColor=black)](https://daniwesttechnologies.vercel.app)
+
+[![Justice Ultimate Automobiles](https://img.shields.io/badge/Justice_Ultimate_Automobiles-Official_Website-0078ff?style=for-the-badge)](https://www.justiceultimateautomobiles.com)
+
+[![Justice Corporate Logistics Kenya](https://img.shields.io/badge/Justice_Corporate_Logistics_Kenya-Official_Website-22c55e?style=for-the-badge)](https://justicecoporatelogisticskenya.vercel.app)
+
+</div>
+
+---
+
+## SYSTEM OVERVIEW
+
+```mermaid
+flowchart TD
+
+A[Daniel Maina Wangui]
+--> B[Daniwest Tech Ltd]
+
+B --> C[Software Engineering]
+B --> D[Cybersecurity]
+B --> E[Web Development]
+B --> F[DevOps Engineering]
+
+C --> G[Enterprise Applications]
+D --> H[Security Solutions]
+E --> I[Modern Websites]
+F --> J[Cloud Infrastructure]
+```
+
+---
+
+## EDUCATION ROADMAP
+
+```mermaid
+timeline
+
+title Technology Journey
+
+KCPE : Strong Academic Performance
+
+High School : Computer Studies
+            : Information Technology
+
+Rift Valley Institute : Software Engineering
+                      : Cybersecurity
+                      : DevOps Engineering
+                      : Graphic Design
+                      : Web Development
+
+Kisii University : Bachelor of Science
+                 : Information Technology
+                 : Expected Graduation 2028
+```
+
+---
+
+## TECHNOLOGY STACK
+
+### Languages
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge\&logo=php)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge\&logo=c)
+
+### Cybersecurity
+
+![Linux](https://img.shields.io/badge/Linux-00FF88?style=for-the-badge\&logo=linux\&logoColor=black)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-00FF88?style=for-the-badge)
+![Network Security](https://img.shields.io/badge/Network_Security-00FF88?style=for-the-badge)
+
+---
+
+## ORGANIZATIONS
+
+| Organization                      | Focus Area                           | Website                                          |
+| --------------------------------- | ------------------------------------ | ------------------------------------------------ |
+| Daniwest Tech Ltd                 | Software Engineering & Cybersecurity | https://daniwesttechnologies.vercel.app          |
+| Justice Ultimate Automobiles      | Automotive Solutions                 | https://www.justiceultimateautomobiles.com       |
+| Justice Corporate Logistics Kenya | Logistics & Transport Solutions      | https://justicecoporatelogisticskenya.vercel.app |
+
+---
+
+## DEVELOPMENT PIPELINE
+
+```mermaid
+flowchart LR
+
+Research --> Planning
+Planning --> Design
+Design --> Development
+Development --> Testing
+Testing --> Security_Audit
+Security_Audit --> Deployment
+Deployment --> Monitoring
+Monitoring --> Improvement
+```
+
+---
+
+## GITHUB STATISTICS
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=chartreuse-dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=chartreuse-dark)
+
+---
+
+## CURRENT OBJECTIVES
+
+```text
+[ ACTIVE PROJECTS ]
+
+■ Enterprise Software Development
+■ Cybersecurity Research
+■ DevOps Engineering
+■ Cloud Infrastructure
+■ Artificial Intelligence
+■ Digital Transformation
+■ Business Automation
+
+STATUS: ACTIVE
+```
+
+---
+
+<div align="center">
+
+### DANIWEST TECH LTD
+
+Building Secure • Scalable • Innovative Digital Solutions
+
+© 2026 Daniwest Tech Ltd
+
+</div>
+
 # DANIEL MAINA WANGUI
 
 ### Information Technology Student | Software Engineer | Cybersecurity Enthusiast | Web Developer | Graphic Designer
