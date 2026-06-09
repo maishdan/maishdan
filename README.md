@@ -1,75 +1,347 @@
-# 👋 Hi, I’m @Daniwest
+<div align="center">
 
-I'm **Daniel Maina Wangui**, also known as **Daniwest** — a passionate, versatile, and results-driven **Software Engineer**, **Cybersecurity Expert**, **Web Developer**, **Graphic Designer**, and **Information Technologist** based in **Nyeri, Kenya 🇰🇪**.  
+# DANIEL MAINA WANGUI
 
-I specialize in creating **secure, intelligent, and world-class digital systems** — from modern websites to cybersecurity solutions that protect and empower communities globally.
+### Information Technology Student | Software Engineer | Cybersecurity Enthusiast | Web Developer | Graphic Designer
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Information+Technology+Student;Software+Development;Cybersecurity+and+Ethical+Hacking;DevOps+Engineering;Web+Development;Digital+Innovation" />
 
-## 🧠 Core Expertise
-- 💻 **Software & Web Development** – HTML, CSS, JavaScript, PHP, Python, Node.js  
-- 🛡️ **Cybersecurity & Ethical Hacking** – Kali Linux, Metasploit, Nmap, Burp Suite, Wireshark  
-- 🔐 **Certified Security Knowledge** – Trained under **ISC²** and **Cisco CyberOps** standards  
-- 🧩 **Database Systems** – MySQL, Supabase, Firebase  
-- 🌐 **API Integration** – M-Pesa Daraja, RESTful APIs, JSON, Webhooks  
-- 🎨 **UI/UX & Graphic Design** – Photoshop, Illustrator, Figma, Adobe XD  
-- 🧰 **System Administration** – Linux, Windows Server, Hosting & Deployment  
-- ⚙️ **WordPress & WooCommerce Development**  
-- 🚗 **Simulation Gaming & Automotive Tech** – Passion for modding and real-world simulation systems  
-- 🏍️ **Driving & Riding Enthusiast** – Skilled, safety-conscious, and passionate about automotive technology  
+<br>
+
+[![Website](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://daniwesttechnologies.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/daniel-maina-5b6817363)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:maishdan4940@gmail.com)
+
+</div>
 
 ---
 
-## 👀 I’m interested in
-- Advanced cybersecurity, ethical hacking & forensics  
-- Secure full-stack web applications  
-- AI-assisted UI/UX design & automation tools  
-- Open-source collaboration in IT & security  
-- Simulation and game system development  
+# PROFILE
+
+Technology-driven student and developer currently pursuing a Bachelor of Science in Information Technology at Kisii University.
+
+Passionate about software engineering, cybersecurity, DevOps engineering, cloud technologies, graphic design, networking, and enterprise systems development.
+
+Focused on building secure, scalable, and innovative digital solutions that solve real-world business challenges.
 
 ---
 
-## 🌱 I’m currently learning
-- Pursuing a **Bachelor’s Degree in Information Technology** at *Kisii University*  
-- Deepening expertise in **offensive & defensive cybersecurity**  
-- Expanding skills in **Python security automation** and **Supabase integration**  
+# TECHNOLOGY STACK
+
+## Software Development
+
+```text
+HTML5
+CSS3
+JavaScript
+PHP
+Python
+C Programming
+MySQL
+Bootstrap
+Git & GitHub
+```
+
+## Cybersecurity
+
+```text
+Network Security
+Ethical Hacking
+Penetration Testing
+Digital Forensics
+Security Auditing
+Vulnerability Assessment
+```
+
+## DevOps & Cloud
+
+```text
+Linux
+Git
+GitHub Actions
+CI/CD
+Server Management
+Cloud Deployment
+System Administration
+```
+
+## Design
+
+```text
+Adobe Photoshop
+Adobe Illustrator
+Canva
+UI/UX Design
+Brand Identity
+Digital Marketing Assets
+```
 
 ---
 
-## 💞️ I’m looking to collaborate on
-- Cybersecurity & penetration testing projects  
-- Scalable web applications (HTML, CSS, JS, PHP, MySQL)  
-- Secure API development and backend systems  
-- UI/UX design and global branding projects  
-- Ethical hacking research and open-source IT tools  
+# EDUCATION ROADMAP
+
+```text
+
+KCPE
+│
+├── Achieved Strong Academic Performance
+│
+▼
+
+High School
+│
+├── Computer Studies
+├── Information Technology Foundation
+├── Programming Fundamentals
+│
+▼
+
+Rift Valley Institute of Business Studies & Technology
+│
+├── Software Engineering
+├── DevOps Engineering
+├── Cybersecurity
+├── Ethical Hacking
+├── Graphic Design
+├── Web Development
+│
+▼
+
+Kisii University
+│
+├── Bachelor of Science
+├── Information Technology
+├── Software Development
+├── Networking
+├── Cybersecurity
+├── Database Systems
+├── System Analysis & Design
+│
+▼
+
+Expected Graduation
+2028
+
+```
 
 ---
 
-## 🌍 My Company
-🚀 Explore my tech company: **[Daniwest Tech Sol](https://daniwest-tech-sol.vercel.app/)** — where we design, develop, and secure next-generation digital systems for the modern world.  
+# PROFESSIONAL JOURNEY
+
+```text
+
+Learning Technology
+        │
+        ▼
+
+Software Development
+        │
+        ▼
+
+Cybersecurity
+        │
+        ▼
+
+DevOps Engineering
+        │
+        ▼
+
+Enterprise Systems
+        │
+        ▼
+
+Digital Innovation
+        │
+        ▼
+
+Technology Leadership
+
+```
 
 ---
 
-## 📫 How to reach me
-- 📧 **Email:** [maishdan4940@gmail.com](mailto:maishdan4940@gmail.com)  
-- 📱 **Phone/WhatsApp:** +254 790 293 895 | +254 701 460 110  
-- 🌐 **Portfolio:** [Daniwest Technologies](https://sites.google.com/view/daniwesttechnologies/home) | [Daniwest Digital CV](https://daniwest-digital-cv.vercel.app/)  
-- 💼 **LinkedIn:** [Daniel Maina Wangui](https://www.linkedin.com/in/daniel-maina-5b6817363)  
-- 🐙 **GitHub:** [@Daniwest](https://github.com/DaniwestTech)  
+# PROJECT ECOSYSTEM
+
+```text
+
+                     DANIWEST TECH LTD
+                              │
+         ┌────────────────────┼────────────────────┐
+         │                    │                    │
+         ▼                    ▼                    ▼
+
+Software Systems      Cybersecurity       Digital Solutions
+Development             Services
+
+         │                    │                    │
+
+         └────────────────────┼────────────────────┘
+                              │
+                              ▼
+
+                     Enterprise Solutions
+
+```
 
 ---
 
-## 😄 Pronouns
-**Mr / He / Him**
+# FEATURED ORGANIZATIONS
+
+## Daniwest Tech Ltd
+
+Technology company focused on software engineering, cybersecurity, web development, cloud deployment, and digital transformation solutions.
+
+Website:
+
+https://daniwesttechnologies.vercel.app
 
 ---
 
-## ⚡ Fun Facts
-- 🎮 I’m a huge fan of **simulation games** — especially **real-life driving simulators** like *Euro Truck Simulator 2*.  
-- 🚗 I love **driving and vehicle mechanics**, blending tech innovation with real-world motion.  
-- 🔐 Passionate about **digital security**, **automation**, and **ethical hacking innovation** for a safer cyber world.
+## Justice Ultimate Automobiles
+
+Automotive platform specializing in vehicle sales, inventory management, customer engagement, and digital automotive solutions.
+
+Website:
+
+https://www.justiceultimateautomobiles.com
 
 ---
 
-✨ *“Securing the digital future, one innovation at a time.”*  
-© 2025 [Daniwest Tech Sol](https://daniwest-tech-sol.vercel.app/)
+## Justice Corporate Logistics Kenya
+
+Logistics and transportation solutions platform focused on efficient movement of goods, fleet management, and business logistics.
+
+Website:
+
+https://justicecoporatelogisticskenya.vercel.app
+
+---
+
+# DEVELOPMENT WORKFLOW
+
+```text
+
+Research
+   │
+   ▼
+
+Planning
+   │
+   ▼
+
+System Design
+   │
+   ▼
+
+Development
+   │
+   ▼
+
+Testing
+   │
+   ▼
+
+Security Audit
+   │
+   ▼
+
+Deployment
+   │
+   ▼
+
+Monitoring
+   │
+   ▼
+
+Continuous Improvement
+
+```
+
+---
+
+# CURRENT FOCUS
+
+```text
+Enterprise Software Development
+
+Cybersecurity Research
+
+Cloud Infrastructure
+
+DevOps Engineering
+
+Artificial Intelligence
+
+Digital Transformation
+
+Business Automation
+
+Technology Entrepreneurship
+```
+
+---
+
+# GITHUB CONTRIBUTION PHILOSOPHY
+
+```text
+
+Build Secure Systems
+          │
+          ▼
+
+Write Clean Code
+          │
+          ▼
+
+Solve Real Problems
+          │
+          ▼
+
+Create Business Value
+          │
+          ▼
+
+Continuous Learning
+
+```
+
+---
+
+# CONTACT INFORMATION
+
+```text
+Daniel Maina Wangui
+
+Email:
+maishdan4940@gmail.com
+
+LinkedIn:
+https://www.linkedin.com/in/daniel-maina-5b6817363
+
+Portfolio:
+https://daniwesttechnologies.vercel.app
+```
+
+---
+
+<div align="center">
+
+## DANIWEST TECH LTD
+
+Innovating Through Technology, Security, and Digital Excellence.
+
+<br>
+
+[![Website](https://img.shields.io/badge/Daniwest_Tech_Ltd-Official_Website-0A66C2?style=for-the-badge)](https://daniwesttechnologies.vercel.app)
+
+[![Justice Ultimate Automobiles](https://img.shields.io/badge/Justice_Ultimate_Automobiles-Visit_Website-0047AB?style=for-the-badge)](https://www.justiceultimateautomobiles.com)
+
+[![Justice Corporate Logistics Kenya](https://img.shields.io/badge/Justice_Corporate_Logistics_Kenya-Visit_Website-228B22?style=for-the-badge)](https://justicecoporatelogisticskenya.vercel.app)
+
+<br><br>
+
+© 2026 Daniwest Tech Ltd
+
+Building Secure, Scalable and Innovative Digital Solutions.
+
+</div>
