@@ -1,28 +1,72 @@
-<div align="center">
-
 # DANIEL MAINA WANGUI
 
 ### Information Technology Student | Software Engineer | Cybersecurity Enthusiast | Web Developer | Graphic Designer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Information+Technology+Student;Software+Development;Cybersecurity+and+Ethical+Hacking;DevOps+Engineering;Web+Development;Digital+Innovation" />
+```bash
+┌──(root㉿parrot)-[~/portfolio]
+└─$ initializing_profile.sh
 
-<br>
+[✓] Loading developer profile...
+[✓] Connecting to secure network...
+[✓] Loading cybersecurity modules...
+[✓] Loading software engineering toolkit...
+[✓] Loading DevOps environment...
+[✓] Loading digital innovation workspace...
 
-[![Website](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://daniwesttechnologies.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/daniel-maina-5b6817363)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:maishdan4940@gmail.com)
+System Ready...
+```
 
-</div>
+```bash
+┌──(root㉿parrot)-[~/portfolio]
+└─$ whoami
+
+Daniel Maina Wangui
+
+┌──(root㉿parrot)-[~/portfolio]
+└─$ cat role.txt
+
+Information Technology Student
+Software Engineer
+Cybersecurity Enthusiast
+Web Developer
+Graphic Designer
+
+┌──(root㉿parrot)-[~/portfolio]
+└─$ _
+```
+
+```text
+███████████████████████████████████████████████████████████████████
+█ 01001000 01000001 01000011 01001011 01000101 01010010 01010011 █
+█ 01110011 01100101 01100011 01110101 01110010 01100101 00100000 █
+█ 01110011 01111001 01110011 01110100 01100101 01101101 01110011 █
+███████████████████████████████████████████████████████████████████
+```
 
 ---
 
 # PROFILE
 
-Technology-driven student and developer currently pursuing a Bachelor of Science in Information Technology at Kisii University.
+```bash
+┌──(root㉿parrot)-[~/profile]
+└─$ cat about_me.txt
 
-Passionate about software engineering, cybersecurity, DevOps engineering, cloud technologies, graphic design, networking, and enterprise systems development.
+Technology-driven student and developer currently pursuing
+a Bachelor of Science in Information Technology at Kisii University.
 
-Focused on building secure, scalable, and innovative digital solutions that solve real-world business challenges.
+Passionate about:
+• Software Engineering
+• Cybersecurity
+• DevOps Engineering
+• Cloud Technologies
+• Graphic Design
+• Networking
+• Enterprise Systems Development
+
+Mission:
+Build secure, scalable and innovative digital solutions
+that solve real-world business challenges.
+```
 
 ---
 
@@ -30,7 +74,10 @@ Focused on building secure, scalable, and innovative digital solutions that solv
 
 ## Software Development
 
-```text
+```bash
+┌──(root㉿parrot)-[~/skills/software]
+└─$ ls
+
 HTML5
 CSS3
 JavaScript
@@ -39,12 +86,16 @@ Python
 C Programming
 MySQL
 Bootstrap
-Git & GitHub
+Git
+GitHub
 ```
 
 ## Cybersecurity
 
-```text
+```bash
+┌──(root㉿parrot)-[~/skills/cybersecurity]
+└─$ ls
+
 Network Security
 Ethical Hacking
 Penetration Testing
@@ -55,7 +106,10 @@ Vulnerability Assessment
 
 ## DevOps & Cloud
 
-```text
+```bash
+┌──(root㉿parrot)-[~/skills/devops]
+└─$ ls
+
 Linux
 Git
 GitHub Actions
@@ -67,7 +121,10 @@ System Administration
 
 ## Design
 
-```text
+```bash
+┌──(root㉿parrot)-[~/skills/design]
+└─$ ls
+
 Adobe Photoshop
 Adobe Illustrator
 Canva
@@ -81,14 +138,15 @@ Digital Marketing Assets
 # EDUCATION ROADMAP
 
 ```text
+[BOOT SEQUENCE INITIATED]
 
 KCPE
 │
-├── Achieved Strong Academic Performance
+├── Strong Academic Performance
 │
 ▼
 
-High School
+HIGH SCHOOL
 │
 ├── Computer Studies
 ├── Information Technology Foundation
@@ -96,7 +154,7 @@ High School
 │
 ▼
 
-Rift Valley Institute of Business Studies & Technology
+RIFT VALLEY INSTITUTE OF BUSINESS STUDIES & TECHNOLOGY
 │
 ├── Software Engineering
 ├── DevOps Engineering
@@ -107,7 +165,7 @@ Rift Valley Institute of Business Studies & Technology
 │
 ▼
 
-Kisii University
+KISII UNIVERSITY
 │
 ├── Bachelor of Science
 ├── Information Technology
@@ -119,9 +177,10 @@ Kisii University
 │
 ▼
 
-Expected Graduation
+EXPECTED GRADUATION
 2028
 
+[ROADMAP STATUS: ACTIVE]
 ```
 
 ---
@@ -129,6 +188,7 @@ Expected Graduation
 # PROFESSIONAL JOURNEY
 
 ```text
+SYSTEM EVOLUTION LOG
 
 Learning Technology
         │
@@ -156,6 +216,7 @@ Digital Innovation
 
 Technology Leadership
 
+STATUS: IN PROGRESS...
 ```
 
 ---
@@ -183,13 +244,35 @@ Development             Services
 
 ```
 
+```bash
+┌──(root㉿parrot)-[~/projects]
+└─$ tree
+
+Daniwest-Tech-Ltd
+├── Software Engineering
+├── Cybersecurity Solutions
+├── Cloud Infrastructure
+├── Web Development
+└── Digital Transformation
+```
+
 ---
 
 # FEATURED ORGANIZATIONS
 
 ## Daniwest Tech Ltd
 
-Technology company focused on software engineering, cybersecurity, web development, cloud deployment, and digital transformation solutions.
+```bash
+┌──(root㉿parrot)-[~/organizations]
+└─$ cat daniwest.txt
+
+Technology company focused on:
+• Software Engineering
+• Cybersecurity
+• Web Development
+• Cloud Deployment
+• Digital Transformation Solutions
+```
 
 Website:
 
@@ -199,7 +282,16 @@ https://daniwesttechnologies.vercel.app
 
 ## Justice Ultimate Automobiles
 
-Automotive platform specializing in vehicle sales, inventory management, customer engagement, and digital automotive solutions.
+```bash
+┌──(root㉿parrot)-[~/organizations]
+└─$ cat justice_ultimate.txt
+
+Automotive platform specializing in:
+• Vehicle Sales
+• Inventory Management
+• Customer Engagement
+• Digital Automotive Solutions
+```
 
 Website:
 
@@ -209,7 +301,16 @@ https://www.justiceultimateautomobiles.com
 
 ## Justice Corporate Logistics Kenya
 
-Logistics and transportation solutions platform focused on efficient movement of goods, fleet management, and business logistics.
+```bash
+┌──(root㉿parrot)-[~/organizations]
+└─$ cat logistics.txt
+
+Logistics and transportation solutions:
+• Fleet Management
+• Goods Transportation
+• Business Logistics
+• Operational Efficiency
+```
 
 Website:
 
@@ -220,6 +321,7 @@ https://justicecoporatelogisticskenya.vercel.app
 # DEVELOPMENT WORKFLOW
 
 ```text
+[ SYSTEM DEVELOPMENT PIPELINE ]
 
 Research
    │
@@ -255,13 +357,17 @@ Monitoring
 
 Continuous Improvement
 
+PIPELINE STATUS: RUNNING...
 ```
 
 ---
 
 # CURRENT FOCUS
 
-```text
+```bash
+┌──(root㉿parrot)-[~/focus]
+└─$ cat objectives.txt
+
 Enterprise Software Development
 
 Cybersecurity Research
@@ -305,11 +411,22 @@ Continuous Learning
 
 ```
 
+```bash
+┌──(root㉿parrot)-[~/github]
+└─$ echo "Code. Secure. Innovate."
+
+Code. Secure. Innovate.
+```
+
 ---
 
 # CONTACT INFORMATION
 
-```text
+```bash
+┌──(root㉿parrot)-[~/contact]
+└─$ cat contact.info
+
+Name:
 Daniel Maina Wangui
 
 Email:
@@ -324,24 +441,55 @@ https://daniwesttechnologies.vercel.app
 
 ---
 
-<div align="center">
-
 ## DANIWEST TECH LTD
 
-Innovating Through Technology, Security, and Digital Excellence.
+```bash
+┌──(root㉿parrot)-[~/company]
+└─$ ./mission.sh
 
-<br>
+Innovating Through Technology,
+Security,
+and Digital Excellence.
+```
 
-[![Website](https://img.shields.io/badge/Daniwest_Tech_Ltd-Official_Website-0A66C2?style=for-the-badge)](https://daniwesttechnologies.vercel.app)
+```text
+01000100 01000001 01001110 01001001 01010111 01000101 01010011 01010100
+01010100 01000101 01000011 01001000 00100000 01001100 01010100 01000100
 
-[![Justice Ultimate Automobiles](https://img.shields.io/badge/Justice_Ultimate_Automobiles-Visit_Website-0047AB?style=for-the-badge)](https://www.justiceultimateautomobiles.com)
+[ SYSTEM STATUS ]
+█████████████████████████████████████████████████████ 100%
 
-[![Justice Corporate Logistics Kenya](https://img.shields.io/badge/Justice_Corporate_Logistics_Kenya-Visit_Website-228B22?style=for-the-badge)](https://justicecoporatelogisticskenya.vercel.app)
+SECURE
+SCALABLE
+INNOVATIVE
+```
 
-<br><br>
+```bash
+┌──(root㉿parrot)-[~/company]
+└─$ echo "© 2026 Daniwest Tech Ltd"
 
 © 2026 Daniwest Tech Ltd
 
+┌──(root㉿parrot)-[~/company]
+└─$ echo "Building Secure, Scalable and Innovative Digital Solutions."
+
 Building Secure, Scalable and Innovative Digital Solutions.
 
-</div>
+┌──(root㉿parrot)-[~/company]
+└─$ _
+```
+
+```text
+BACKGROUND STREAM SIMULATION
+
+[00:01] Initializing secure shell...
+[00:02] Loading cybersecurity modules...
+[00:03] Establishing encrypted connection...
+[00:04] Scanning development environment...
+[00:05] Deploying innovation framework...
+[00:06] Monitoring system integrity...
+[00:07] Access Granted...
+[00:08] Welcome Daniel Maina Wangui...
+```
+
+**Recommended Theme:** Dark Parrot OS green (#00FF88), black background (#0D1117), glowing terminal-green text, animated typing banners, Matrix-style code rain GIFs, terminal prompts, and GitHub typing SVG effects for the full cybersecurity aesthetic.
